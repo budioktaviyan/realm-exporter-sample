@@ -1,2 +1,2 @@
-# realm-exporter-sample
+# Realm Exporter Sample
 Sample Realm Database Exporter
