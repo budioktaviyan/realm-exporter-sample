@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Realm Exporter</string>
+    <string name="btn_export">Export</string>
+</resources>
